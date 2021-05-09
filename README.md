@@ -12,11 +12,13 @@ Since I am using Manjaro on my own system, I will be using the Arch based pacman
 If using an Arch based Linux Distribution, run the following commands to install NodeJS and NPM:
 
 sudo pacman -S nodejs
+
 sudo pacman -S npm
 
 Once done, use npm to install the following modules:
 
 npm install prompt-sync
+
 npm install rethinkdb
 
 You will also need to install rethinkdb, so please visit rethinkdb's website and follow their installation instructions:
