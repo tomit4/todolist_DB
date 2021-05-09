@@ -4,7 +4,7 @@ This application allows the user to create a To Do List that they can save to th
 through RethinkDB.
 
 In order to run this program on your own computer, please clone the files from this repository to a directory of your choosing.
-Once you have cloned the files, you will need a few simple development tools to utilize the application and teset its functionality.
+Once you have cloned the files, you will need a few simple development tools to utilize the application and test its functionality.
 
 Of course you will need NodeJS, as this is a terminal based application.
 From the Command Line install NodeJS and its package manager, NPM.
